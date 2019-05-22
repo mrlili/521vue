@@ -24,7 +24,7 @@
 			</a>
 		</nav>
     <h2>试试</h2>
-		<h2>试试</h2>
+		<h2>我是<app class="vue"></app></h2>
   </div>
 </template>
 

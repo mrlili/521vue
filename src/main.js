@@ -28,4 +28,4 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
-console.log('sjish')
+console.log('sj22ish')
